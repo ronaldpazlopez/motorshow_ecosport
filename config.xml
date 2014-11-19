@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <widget id="com.motorshow2014.ecosport" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
-    <name>Motorshow Ecosport</name>
+    <name>Ecosport</name>
 	<description>Evento Motorshow 2014 Perú</description>
 	
 	<icon src="img/m-logo.png" gap:platform="ios" width="152" height="152" />
